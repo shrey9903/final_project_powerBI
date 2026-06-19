@@ -185,12 +185,3 @@ Dashboard performance optimization
 
 Shrey Patel
 
-B.Tech Information Technology
-M.Eng Computer Engineering (University of Guelph)
-Interested in Data Analytics, AI/ML, and Business Intelligence
-⭐ Future Improvements
-Predictive Sales Forecasting
-AI-powered Insights
-Power BI Service Deployment
-Automated Data Refresh
-Advanced Customer Segmentation
